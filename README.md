@@ -1,111 +1,109 @@
-👋 안녕하세요, 저는 최찬우입니다!
-🎯 About Me
-💻 AI 및 로봇학과 전공으로 머신러닝과 웹 개발에 관심이 많은 개발자입니다
+# 👋 안녕하세요, 저는 최찬우입니다!
 
-🌱 현재 Spring Boot와 JPA를 중심으로 한 백엔드 개발을 학습하고 있습니다
+<div align="center">
 
-🤖 머신러닝 및 AI 프로젝트에 특별한 관심을 가지고 있습니다
+### 💻 AI 및 로봇학과 전공 | 백엔드 개발자 지망생
+**머신러닝과 웹 개발의 융합을 꿈꾸는 개발자입니다**
 
-📚 객체지향 프로그래밍의 원칙을 적용한 프로젝트 개발을 즐깁니다
+</div>
 
-🛠️ 기술 스택
-Programming Languages
+---
 
-☕ Java
+## 🛠️ Tech Stack
 
-🐍 Python
+<table>
+<tr>
+<td align="center" width="50%">
 
-🌐 JavaScript
+**Backend & Database**
+- ☕ Java / 🍃 Spring Boot
+- 🗄️ JPA/Hibernate
+- 🐬 MySQL
 
-🎨 HTML/CSS
+</td>
+<td align="center" width="50%">
 
-Frameworks & Libraries
+**AI & Frontend**
+- 🐍 Python / 📊 Scikit-learn
+- 🌐 JavaScript / 🎨 HTML/CSS
+- 🔧 Thymeleaf / 🎨 Bootstrap
 
-🍃 Spring Boot
+</td>
+</tr>
+</table>
 
-🗄️ JPA/Hibernate
+---
 
-📊 Scikit-learn
+## 🚀 주요 프로젝트
 
-🔧 Thymeleaf
+<table>
+<tr>
+<td width="50%">
 
-Databases
+### 📚 FastCampus BookStore
+**Spring Boot 온라인 도서 쇼핑몰**
+- 🛒 완전한 전자상거래 기능
+- 💳 카카오페이 API 연동
+- 👨‍💼 관리자 페이지 구현
 
-🐬 MySQL
+### 🛍️ E-commerce Database
+**대규모 쇼핑몰 DB 설계**
+- 📊 50+ 테이블 복합 관계 설계
+- 🔄 주문/결제/배송 전 과정 모델링
 
-📊 Database Modeling
+</td>
+<td width="50%">
 
-Tools & Others
+### 🤖 비만 예측 ML 프로젝트
+**생활습관 기반 비만도 예측**
+- 📈 **97.9% 최고 정확도** (Random Forest)
+- 🔍 5가지 알고리즘 비교 분석
 
-📓 Jupyter Notebook
+### 🎮 OOP 포커 게임
+**객체지향 설계 적용**
+- 👥 4명 멀티플레이어
+- 🎯 100라운드 자동 진행
 
-🎨 Bootstrap
+</td>
+</tr>
+</table>
 
-🔄 Git/GitHub
+---
 
-📊 GitHub 통계
-🚀 주요 프로젝트
-📚 FastCampus BookStore
-설명: Spring Boot와 JPA를 활용한 온라인 도서 쇼핑몰
+## 📊 GitHub Stats & Activity
 
-기술: Spring Boot, JPA, MySQL, Thymeleaf, 카카오페이 API
+<div align="center">
 
-기능: 회원 관리, 상품 관리, 장바구니, 결제 시스템, 관리자 페이지
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=choichanwoo001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choichanwoo001&layout=compact&langs_count=8&theme=tokyonight"/>
 
-정확도: 완전한 전자상거래 기능 구현
+</div>
 
-🤖 비만 예측 머신러닝 프로젝트
-설명: 개인의 생활습관과 식습관을 기반으로 한 비만도 예측 모델
+---
 
-기술: Python, Scikit-learn, Pandas, Matplotlib
+## 🎯 현재 집중하고 있는 것들
 
-모델: Random Forest, KNN, Naive Bayes, AdaBoost, Bagging
+```java
+// 백엔드 개발 역량 강화
+🍃 Spring Boot + JPA 심화 학습
+📚 객체지향 설계 패턴 적용
+🔄 RESTful API 설계
 
-최고 정확도: 97.9% (Random Forest)
+// AI/ML 지속 학습  
+🤖 머신러닝 모델 최적화
+📊 데이터 분석 및 시각화
+🔬 실무 프로젝트 적용 연구
+```
 
-🎮 OOP 포커 게임
-설명: 객체지향 프로그래밍 원칙을 적용한 포커 게임
+---
 
-기술: Java, OOP 설계 패턴
+<div align="center">
 
-기능: 4명 멀티플레이어, 100라운드 자동 진행, 포커 핸드 판별
+### 🌟 "백엔드와 AI를 융합한 혁신적인 서비스 개발이 목표입니다"
 
-🛍️ 온라인 쇼핑몰 프로젝트
-설명: 다양한 온라인 쇼핑몰 프로젝트 개발
+[![GitHub](https://img.shields.io/badge/GitHub-choichanwoo001-black?style=for-the-badge&logo=github)](https://github.com/choichanwoo001)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:jonadan3495@gmail.com)
 
-기술: Java, Spring Boot, HTML/CSS, JavaScript
+**⭐ 이 프로필이 흥미로우시다면 팔로우해주세요!**
 
-유형: 옷 쇼핑몰, 책방, 데이터베이스 모델링
-
-🍎 Stop-eat 다이어트 서비스
-설명: 2024년 세종대학교 AI로봇학과 학술제 참가 프로젝트
-
-기술: JavaScript
-
-목적: 다이어트 관리 서비스 개발
-
-📈 개발 활동
-🏆 2024년 학술제 참가: Stop-eat 다이어트 서비스 프로젝트로 참여
-
-📚 지속적인 학습: 128개의 커밋으로 꾸준한 코딩 활동
-
-🎯 다양한 프로젝트: 웹 개발부터 머신러닝까지 폭넓은 경험
-
-🌟 특별한 관심사
-🤖 AI/ML: 머신러닝 모델 개발 및 최적화
-
-🌐 웹 개발: 풀스택 웹 애플리케이션 개발
-
-🎯 OOP: 객체지향 설계 원칙 적용
-
-📊 데이터 분석: 데이터 시각화 및 통계 분석
-
-📫 연락처
-📧 Email: [연락처 정보]
-
-🐙 GitHub: @choichanwoo001
-
-🎯 목표
-현재 백엔드 개발자로서의 역량을 키우고 있으며, 특히 Spring Boot와 JPA를 중심으로 한 웹 애플리케이션 개발에 집중하고 있습니다. 동시에 머신러닝과 AI 분야에서도 지속적으로 학습하여 두 분야를 융합한 혁신적인 서비스를 개발하는 것이 목표입니다.
-
-⭐ 이 프로필이 흥미로우시다면 팔로우해주세요!
+</div>
