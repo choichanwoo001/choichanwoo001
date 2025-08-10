@@ -1,140 +1,197 @@
-# 👋 안녕하세요, AI와 백엔드를 융합하는 개발자 최찬우입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AI%20×%20Backend%20Developer&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
 
-**AI 로봇학과에서 얻은 데이터 분석 및 머신러닝 지식과<br>Java, Spring Boot 기반의 견고한 백엔드 개발 역량을 결합하여<br>지능적이고 혁신적인 서비스를 만드는 것을 목표로 하고 있습니다.**
+# 최찬우 (Chanwoo Choi) 👋
+
+### 🤖 **AI 로봇학과 출신** × **Spring Boot 백엔드** 융합 개발자
+
+> *"머신러닝의 지능과 백엔드의 안정성을 결합해 혁신적인 서비스를 만듭니다"*
 
 <br>
 
-<a href="https://github.com/choichanwoo001">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:jonadan3495@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choichanwoo001)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonadan3495@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 **Signature Projects**
 
-- **Backend**: Java, Spring Boot, Spring Data JPA, RESTful API  
-- **Database**: MySQL, JPA, Database Design (ERD)  
-- **AI & ML**: Python, Scikit-learn, Pandas, Matplotlib  
-- **Frontend**: HTML5, CSS3, JavaScript, Thymeleaf, Bootstrap  
-- **DevOps**: Docker, docker-compose, Git/GitHub  
-- **Core**: OOP, Design Patterns
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white&style=for-the-badge" />
+### 🤖 **Toy_4** 
+**AI × Backend 마이크로서비스**
+
+```yaml
+🎯 Core: AI 일기분석 + RAG 대화시스템
+🔧 Tech: FastAPI • Spring Boot • ChromaDB
+🐳 Deploy: Docker Compose 멀티서비스
+```
+
+**Features**
+- 🧠 OpenAI API 기반 감정/이벤트 추출
+- 💬 ChromaDB RAG 대화형 AI
+- 🔗 Spring Boot 백엔드 통합 아키텍처
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/Toy_4)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 **ShoppingMall**
+**풀스택 전자상거래 플랫폼**
+
+```yaml
+🎯 Core: 완성형 온라인 서점 시스템
+🔧 Tech: Spring Boot • JPA • MySQL
+💰 Payment: 카카오페이 연동
+```
+
+**Features**
+- 👥 사용자/관리자 역할 기반 시스템
+- 🛒 실시간 장바구니 & 주문 플로우
+- 📊 재고 관리 및 매출 대시보드
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/ShoppingMall)
+
+</td>
+</tr>
+</table>
+
+### 🎲 **ML Disease Prediction**
+**생활습관 기반 질병 예측 모델**
+
+AI 로봇학과에서 배운 머신러닝을 실전에 적용한 프로젝트
+
+```python
+# 핵심 워크플로우
+EDA → Feature Engineering → Model Training → Evaluation → Visualization
+```
+
+**Achievements**
+- 🎯 당뇨병 예측 정확도 **85%+** 달성
+- 📊 RandomForest vs SVM vs Logistic 성능 비교 분석
+- 🔄 완전 자동화된 ML 파이프라인 구축
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/Machine_Learning-AI-Projects)
+
+---
+
+## ⚡ **Tech Arsenal**
+
+<div align="center">
+
+### **Backend & Database**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)
+
+### **Frontend & DevOps**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects (Pinned)
+## 🎨 **Development Philosophy**
 
-아래 6개 핀 레포지토리를 중심으로 역량을 보여줍니다.  
-핀 정보 출처: [GitHub 프로필](https://github.com/choichanwoo001)
-
-| 프로젝트 | 스택 | 핵심 포인트 | 링크 |
-|---|---|---|---|
-| Toy_4 | Python(FastAPI), RAG(ChromaDB), OpenAI API, Spring Boot, Docker | AI 일기 분석/대화 RAG + 스프링 백엔드 통합, 도커 Compose로 멀티서비스 구동 | https://github.com/choichanwoo001/Toy_4 |
-| Stop-eat | JavaScript, Web | 다이어트 서비스(학술제 출품), 사용자 상호작용 중심 기능 | https://github.com/choichanwoo001/Stop-eat |
-| Machine_Learning-AI-Projects | Python, Scikit-learn, Pandas | 식습관 기반 질병(당뇨 등) 예측 모델, 비교·튜닝·시각화 파이프라인 | https://github.com/choichanwoo001/Machine_Learning-AI-Projects |
-| Online_ShoppingMall | Java | 온라인 옷 쇼핑몰 토이, 상품/주문 플로우 구현 | https://github.com/choichanwoo001/Online_ShoppingMall |
-| ShoppingMall | Spring Boot, JPA, MySQL, Thymeleaf | 온라인 책방(사용자/관리자 분리, 장바구니·주문·재고·결제 플로우) | https://github.com/choichanwoo001/ShoppingMall |
-| ShoppingMall-DB | MySQL, ERD | 대규모 전자상거래 DB 논리 모델링(정규화·관계 설계) | https://github.com/choichanwoo001/ShoppingMall-DB |
-
----
-
-## 🧩 In-Depth: Toy_4 — AI × Backend 통합 프로젝트
-
-AI 기반 일기 분석과 대화(감정/이벤트 인식, RAG 응답)를 제공하는 **Python AI 서비스**와, 사용자 화면/데이터를 담당하는 **Spring Boot 백엔드**를 **도커 컴포즈**로 함께 구동합니다.
-
-### 🏗️ 아키텍처 개요
+<div align="center">
 
 ```mermaid
-graph TD
-  A[Web Client (HTML/JS/Thymeleaf)] --> B[Spring Boot Backend]
-  B -->|REST API| C[AI Service (FastAPI, Python)]
-  C -->|LLM API| D[(LLM Provider)]
-  C -->|RAG Query| E[(ChromaDB Vector Store)]
-  B -->|JPA| F[(MySQL)]
-  subgraph Repo Structure
-    B --- G[backend/ ...]
-    C --- H[ai-service/ ...]
-  end
+mindmap
+  root((개발 철학))
+    실용적 설계
+      과도한 추상화 지양
+      명확한 코드 구조
+      유지보수성 우선
+    데이터 중심
+      AI/ML 배경 활용
+      근거 기반 의사결정
+      성능 지표 추적
+    완성도 추구
+      POC를 넘어선 프로덕트
+      사용자 경험 고려
+      운영 안정성 확보
 ```
 
-- **AI 서비스**: `ai-service/app` 라우터 기반(대화/일기 분석), `core/vector_db.py`로 ChromaDB 활용, `app/prompts`로 프롬프트 관리
-- **백엔드**: `backend/src/main/java/...` 컨트롤러·서비스·리포지토리 계층, `Thymeleaf` 기반 화면
-- **테스트/배포**: `docker-compose.yml`로 로컬 멀티서비스 구동, `pytest` 기반 AI 서비스 테스트
+</div>
 
-### 🔎 대표 엔드포인트 예시
-
-- 대화/요약/최근 대화 등: `/api/v1/conversation/...`
-- 일기 분석: `/api/v1/diary/analyze`
-
-예시 요청:
-```bash
-curl -X POST "http://localhost:8000/api/v1/diary/analyze" \
-  -H "Content-Type: application/json" \
-  -d '{"date":"2025-01-01","content":"오늘은 즐거운 하루였다. 친구를 만나서 기분이 좋았다!"}'
-```
-
-예시 응답(요약):
-```json
-{
-  "sentiment": "positive",
-  "key_events": ["친구 만남"],
-  "advice": "즐거웠던 활동을 주간 루틴으로 만들어 보세요."
-}
-```
-
-### 🌟 Toy_4에서 보여준 역량
-- **AI×도메인 모델링**: 감정/이벤트 추출 → RAG 응답 → 대화 컨텍스트 유지
-- **확장성 고려 설계**: 프롬프트/라우터/서비스/벡터DB 분리
-- **운영 효율**: 도커 컴포즈로 환경 일원화, 테스트 코드로 회귀 방지
+**🔧 실용적 설계** — 과도한 추상화보다는 명확하고 유지보수 가능한 아키텍처  
+**📊 데이터 중심** — AI/ML 배경을 살린 데이터 기반 의사결정과 성능 최적화  
+**🚀 완성도 추구** — POC가 아닌 실제 사용 가능한 프로덕트 레벨 개발
 
 ---
 
-## 📚 추가 대표 작업
+## 📊 **GitHub Stats**
 
-### 📚 Spring Boot 기반 북스토어
-- 회원/관리자 분리, 장바구니/주문/재고, 카카오페이 결제 연동
-- `Spring Boot`, `JPA`, `MySQL`, `Thymeleaf`, `JavaScript`
+<div align="center">
 
-### 🤖 생활 습관 기반 예측 모델(ML)
-- EDA → 학습/튜닝 → 시각화 파이프라인 정립
-- `RandomForest`, `SVM` 등 모델 비교 및 최적화
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choichanwoo001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd93d&text_color=6c7b7f)
 
-### 🎮 OOP 멀티플레이어 포커 게임
-- 역할/책임 기반 설계, 100라운드 자동 테스트
-- 캡슐화/상속/다형성 적용으로 확장성 확보
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choichanwoo001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=6c7b7f)
 
-### 🛍️ E-commerce 대규모 DB 설계
-- 50개+ 테이블, 정규화/무결성 중심의 관계형 모델
-- ERD 문서화 및 시각화
+</div>
 
 ---
 
-## 💡 Work Style & Value
+## 🌟 **What Makes Me Different**
 
-- **문제정의 → 데이터/요구분석 → 설계 → 구현 → 검증** 풀사이클 지향  
-- 유지보수/확장성 고려한 **모듈화**, **테스트 우선**  
-- 사용자 가치와 **운영 안정성**을 함께 보는 균형감
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎓 **AI 전공 배경**
+로봇학과에서 습득한  
+머신러닝/데이터 분석 역량
+
+</td>
+<td align="center" width="33%">
+
+### 🏗️ **견고한 백엔드**
+Spring Boot 생태계 기반  
+확장 가능한 시스템 설계
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **융합적 사고**
+AI와 백엔드를 자연스럽게  
+연결하는 통합적 접근
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- GitHub: https://github.com/choichanwoo001  
-- Email: jonadan3495@gmail.com
+### 📬 **Let's Connect & Build Something Amazing**
+
+[![GitHub](https://img.shields.io/badge/GitHub-choichanwoo001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choichanwoo001)
+[![Email](https://img.shields.io/badge/Email-jonadan3495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonadan3495@gmail.com)
+
+*"AI의 가능성과 백엔드의 안정성을 결합해 더 나은 사용자 경험을 만들어갑니다"*
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
