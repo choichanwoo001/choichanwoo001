@@ -6,8 +6,12 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choichanwoo001)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonadan3495@gmail.com)
+<a href="https://github.com/choichanwoo001">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:jonadan3495@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -15,73 +19,122 @@
 
 ## 🛠️ Tech Stack & Skills
 
-* **Backend:** `Java`, `Spring Boot`, `Spring Data JPA`, `RESTful API`
-* **Database:** `MySQL`, `JPA`, `Database Design (ERD)`
-* **AI & ML:** `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
-* **Frontend:** `HTML5`, `CSS3`, `JavaScript`, `Thymeleaf`, `Bootstrap`
-* **Development Tools:** `Git`, `GitHub`
-* **Core Concepts:** `Object-Oriented Programming (OOP)`, `Design Patterns`
+- **Backend**: Java, Spring Boot, Spring Data JPA, RESTful API  
+- **Database**: MySQL, JPA, Database Design (ERD)  
+- **AI & ML**: Python, Scikit-learn, Pandas, Matplotlib  
+- **Frontend**: HTML5, CSS3, JavaScript, Thymeleaf, Bootstrap  
+- **DevOps**: Docker, docker-compose, Git/GitHub  
+- **Core**: OOP, Design Patterns
+
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white&style=for-the-badge" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Pinned)
 
-### 📚 FastCampus BookStore: Spring Boot 기반 온라인 서점
-* **설명:** Spring Boot와 JPA를 활용하여 개발한 풀스택 온라인 도서 쇼핑몰 프로젝트입니다. 사용자의 회원가입부터 상품 조회, 주문, 결제까지 전자상거래의 핵심 흐름을 직접 구현했습니다.
-* **주요 기능:**
-    * 사용자 및 관리자 기능 분리 (회원 관리, 상품 등록 및 수정)
-    * 장바구니, 주문 처리, 재고 관리 등 핵심 비즈니스 로직 구현
-    * 카카오페이 API를 연동한 실제 결제 시스템 구축
-* **적용 기술:** `Spring Boot`, `JPA`, `MySQL`, `Thymeleaf`, `JavaScript`
-* **성과:** 웹 애플리케이션의 전체 라이프사이클을 경험하며 백엔드 개발 역량을 종합적으로 강화했습니다.
+아래 6개 핀 레포지토리를 중심으로 역량을 보여줍니다.  
+핀 정보 출처: [GitHub 프로필](https://github.com/choichanwoo001)
 
-### 🤖 생활 습관 기반 비만도 예측 머신러닝 모델
-* **설명:** 다양한 생활 습관 데이터를 분석하여 비만도를 예측하는 머신러닝 모델을 개발했습니다. 5가지 주요 알고리즘(Random Forest, SVM, Decision Tree 등)의 성능을 비교 분석하여 최적의 모델을 선정했습니다.
-* **주요 기능:**
-    * Pandas를 이용한 데이터 전처리 및 탐색적 데이터 분석 (EDA)
-    * Scikit-learn을 활용한 모델 학습 및 하이퍼파라미터 튜닝
-    * Matplotlib을 이용한 모델 성능 및 결과 시각화
-* **적용 기술:** `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
-* **성과:** **Random Forest 모델에서 97.9%의 최고 예측 정확도**를 달성하며, 데이터 기반의 문제 해결 능력과 ML 모델링 역량을 입증했습니다.
-
-### 🎮 OOP 원칙을 적용한 멀티플레이어 포커 게임
-* **설명:** 순수 Java와 객체지향 프로그래밍(OOP) 원칙에 집중하여 4인용 포커 게임을 개발했습니다. 역할과 책임에 따라 클래스를 설계하고, 디자인 패턴을 적용하여 코드의 유연성과 확장성을 확보했습니다.
-* **주요 기능:**
-    * 카드 덱, 플레이어, 딜러 등 게임 요소를 객체로 모델링
-    * 100라운드 자동 진행을 통한 게임 로직 안정성 테스트
-    * 캡슐화, 상속, 다형성 등 OOP 핵심 원칙 충실히 적용
-* **적용 기술:** `Java`, `OOP`, `Design Patterns`
-* **성과:** 복잡한 비즈니스 로직(포커 족보 판정, 베팅 규칙)을 객체지향적으로 해결하며 설계 능력의 기반을 다졌습니다.
-
-### 🛍️ 대규모 E-commerce 데이터베이스 설계
-* **설명:** 대규모 온라인 쇼핑몰 환경을 가정하여 데이터베이스를 설계했습니다. 50개 이상의 테이블을 정의하고, 정규화를 통해 데이터 무결성과 확장성을 고려한 관계형 모델을 구축했습니다.
-* **주요 기능:**
-    * 주문, 결제, 배송, 재고, 회원, 상품 등 핵심 도메인 모델링
-    * ERD(Entity-Relationship Diagram)를 통한 시각적 설계 및 문서화
-    * 복합적인 비즈니스 요구사항을 반영한 테이블 간의 관계(1:N, N:M) 설계
-* **적용 기술:** `MySQL`, `Database Design`, `ERD`
-* **성과:** 복잡한 시스템의 데이터를 구조화하고 관계를 정의하는 데이터베이스 설계 역량을 강화했습니다.
+| 프로젝트 | 스택 | 핵심 포인트 | 링크 |
+|---|---|---|---|
+| Toy_4 | Python(FastAPI), RAG(ChromaDB), OpenAI API, Spring Boot, Docker | AI 일기 분석/대화 RAG + 스프링 백엔드 통합, 도커 Compose로 멀티서비스 구동 | https://github.com/choichanwoo001/Toy_4 |
+| Stop-eat | JavaScript, Web | 다이어트 서비스(학술제 출품), 사용자 상호작용 중심 기능 | https://github.com/choichanwoo001/Stop-eat |
+| Machine_Learning-AI-Projects | Python, Scikit-learn, Pandas | 식습관 기반 질병(당뇨 등) 예측 모델, 비교·튜닝·시각화 파이프라인 | https://github.com/choichanwoo001/Machine_Learning-AI-Projects |
+| Online_ShoppingMall | Java | 온라인 옷 쇼핑몰 토이, 상품/주문 플로우 구현 | https://github.com/choichanwoo001/Online_ShoppingMall |
+| ShoppingMall | Spring Boot, JPA, MySQL, Thymeleaf | 온라인 책방(사용자/관리자 분리, 장바구니·주문·재고·결제 플로우) | https://github.com/choichanwoo001/ShoppingMall |
+| ShoppingMall-DB | MySQL, ERD | 대규모 전자상거래 DB 논리 모델링(정규화·관계 설계) | https://github.com/choichanwoo001/ShoppingMall-DB |
 
 ---
 
-## 💡 What I'm Focusing On
+## 🧩 In-Depth: Toy_4 — AI × Backend 통합 프로젝트
 
-```java
-@Component
-public class MyFutureGoal {
+AI 기반 일기 분석과 대화(감정/이벤트 인식, RAG 응답)를 제공하는 **Python AI 서비스**와, 사용자 화면/데이터를 담당하는 **Spring Boot 백엔드**를 **도커 컴포즈**로 함께 구동합니다.
 
-    // 1. Mastering Backend Development
-    @Autowired
-    private DeepDiveIntoSpringBoot jpaDeepDive;
-    @Autowired
-    private ApplyDesignPatterns cleanCodePractices;
-    @Autowired
-    private DesignRestfulAPIs apiDesign;
+### 🏗️ 아키텍처 개요
 
-    // 2. Continuous AI/ML Learning
-    public void optimizeAndApplyModels() {
-        // Machine Learning Model Optimization
-        // Data Analysis & Visualization
-        // Research for Real-World Project Integration
-    }
+```mermaid
+graph TD
+  A[Web Client (HTML/JS/Thymeleaf)] --> B[Spring Boot Backend]
+  B -->|REST API| C[AI Service (FastAPI, Python)]
+  C -->|LLM API| D[(LLM Provider)]
+  C -->|RAG Query| E[(ChromaDB Vector Store)]
+  B -->|JPA| F[(MySQL)]
+  subgraph Repo Structure
+    B --- G[backend/ ...]
+    C --- H[ai-service/ ...]
+  end
+```
+
+- **AI 서비스**: `ai-service/app` 라우터 기반(대화/일기 분석), `core/vector_db.py`로 ChromaDB 활용, `app/prompts`로 프롬프트 관리
+- **백엔드**: `backend/src/main/java/...` 컨트롤러·서비스·리포지토리 계층, `Thymeleaf` 기반 화면
+- **테스트/배포**: `docker-compose.yml`로 로컬 멀티서비스 구동, `pytest` 기반 AI 서비스 테스트
+
+### 🔎 대표 엔드포인트 예시
+
+- 대화/요약/최근 대화 등: `/api/v1/conversation/...`
+- 일기 분석: `/api/v1/diary/analyze`
+
+예시 요청:
+```bash
+curl -X POST "http://localhost:8000/api/v1/diary/analyze" \
+  -H "Content-Type: application/json" \
+  -d '{"date":"2025-01-01","content":"오늘은 즐거운 하루였다. 친구를 만나서 기분이 좋았다!"}'
+```
+
+예시 응답(요약):
+```json
+{
+  "sentiment": "positive",
+  "key_events": ["친구 만남"],
+  "advice": "즐거웠던 활동을 주간 루틴으로 만들어 보세요."
 }
+```
+
+### 🌟 Toy_4에서 보여준 역량
+- **AI×도메인 모델링**: 감정/이벤트 추출 → RAG 응답 → 대화 컨텍스트 유지
+- **확장성 고려 설계**: 프롬프트/라우터/서비스/벡터DB 분리
+- **운영 효율**: 도커 컴포즈로 환경 일원화, 테스트 코드로 회귀 방지
+
+---
+
+## 📚 추가 대표 작업
+
+### 📚 Spring Boot 기반 북스토어
+- 회원/관리자 분리, 장바구니/주문/재고, 카카오페이 결제 연동
+- `Spring Boot`, `JPA`, `MySQL`, `Thymeleaf`, `JavaScript`
+
+### 🤖 생활 습관 기반 예측 모델(ML)
+- EDA → 학습/튜닝 → 시각화 파이프라인 정립
+- `RandomForest`, `SVM` 등 모델 비교 및 최적화
+
+### 🎮 OOP 멀티플레이어 포커 게임
+- 역할/책임 기반 설계, 100라운드 자동 테스트
+- 캡슐화/상속/다형성 적용으로 확장성 확보
+
+### 🛍️ E-commerce 대규모 DB 설계
+- 50개+ 테이블, 정규화/무결성 중심의 관계형 모델
+- ERD 문서화 및 시각화
+
+---
+
+## 💡 Work Style & Value
+
+- **문제정의 → 데이터/요구분석 → 설계 → 구현 → 검증** 풀사이클 지향  
+- 유지보수/확장성 고려한 **모듈화**, **테스트 우선**  
+- 사용자 가치와 **운영 안정성**을 함께 보는 균형감
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/choichanwoo001  
+- Email: jonadan3495@gmail.com
