@@ -2,11 +2,9 @@
 
 <div align="center">
 
-# 최찬우 (Chanwoo Choi) 👋
+# 최찬우 (Chanwoo Choi)
 
-### 🤖 **AI 로봇학과 출신** × **Spring Boot 백엔드** 융합 개발자
-
-> *"머신러닝의 지능과 백엔드의 안정성을 결합해 혁신적인 서비스를 만듭니다"*
+### **AI로봇학과** × **Spring Boot 백엔드** 백엔드&AI 개발자
 
 <br>
 
@@ -17,44 +15,55 @@
 
 ---
 
-## 🚀 **Signature Projects**
+## **Signature Projects**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 **Toy_4** 
+### **Toy_4** 
 **AI × Backend 마이크로서비스**
 
-```yaml
-🎯 Core: AI 일기분석 + RAG 대화시스템
-🔧 Tech: FastAPI • Spring Boot • ChromaDB
-🐳 Deploy: Docker Compose 멀티서비스
-```
+**Core:** AI 일기분석 + RAG 대화시스템
+
+**Tech Stack:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+
+**Deploy:** Docker Compose 멀티서비스
 
 **Features**
-- 🧠 OpenAI API 기반 감정/이벤트 추출
-- 💬 ChromaDB RAG 대화형 AI
-- 🔗 Spring Boot 백엔드 통합 아키텍처
+- OpenAI API 기반 감정/이벤트 추출
+- ChromaDB RAG 대화형 AI
+- Spring Boot 백엔드 통합 아키텍처
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/Toy_4)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 **ShoppingMall**
+### **ShoppingMall**
 **풀스택 전자상거래 플랫폼**
 
-```yaml
-🎯 Core: 완성형 온라인 서점 시스템
-🔧 Tech: Spring Boot • JPA • MySQL
-💰 Payment: 카카오페이 연동
-```
+**Core:** 완성형 온라인 서점 시스템
+
+**Tech Stack:**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+**Payment:** 카카오페이 연동
 
 **Features**
-- 👥 사용자/관리자 역할 기반 시스템
-- 🛒 실시간 장바구니 & 주문 플로우
-- 📊 재고 관리 및 매출 대시보드
+- 사용자/관리자 역할 기반 시스템
+- 실시간 장바구니 & 주문 플로우
+- 재고 관리 및 매출 대시보드
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/ShoppingMall)
 
@@ -62,26 +71,32 @@
 </tr>
 </table>
 
-### 🎲 **ML Disease Prediction**
+### **ML Disease Prediction**
 **생활습관 기반 질병 예측 모델**
 
 AI 로봇학과에서 배운 머신러닝을 실전에 적용한 프로젝트
 
-```python
-# 핵심 워크플로우
-EDA → Feature Engineering → Model Training → Evaluation → Visualization
-```
+**Core:** 생활습관 데이터 기반 질병 예측
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+
+**Workflow:** EDA → Feature Engineering → Model Training → Evaluation → Visualization
 
 **Achievements**
-- 🎯 당뇨병 예측 정확도 **85%+** 달성
-- 📊 RandomForest vs SVM vs Logistic 성능 비교 분석
-- 🔄 완전 자동화된 ML 파이프라인 구축
+- 당뇨병 예측 정확도 **85%+** 달성
+- RandomForest vs SVM vs Logistic 성능 비교 분석
+- 완전 자동화된 ML 파이프라인 구축
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/Machine_Learning-AI-Projects)
 
 ---
 
-## ⚡ **Tech Arsenal**
+## **Tech Arsenal**
 
 <div align="center">
 
@@ -110,7 +125,7 @@ EDA → Feature Engineering → Model Training → Evaluation → Visualization
 
 ---
 
-## 🎨 **Development Philosophy**
+## **Development Philosophy**
 
 <div align="center">
 
@@ -133,13 +148,13 @@ mindmap
 
 </div>
 
-**🔧 실용적 설계** — 과도한 추상화보다는 명확하고 유지보수 가능한 아키텍처  
-**📊 데이터 중심** — AI/ML 배경을 살린 데이터 기반 의사결정과 성능 최적화  
-**🚀 완성도 추구** — POC가 아닌 실제 사용 가능한 프로덕트 레벨 개발
+**실용적 설계** — 과도한 추상화보다는 명확하고 유지보수 가능한 아키텍처  
+**데이터 중심** — AI/ML 배경을 살린 데이터 기반 의사결정과 성능 최적화  
+**완성도 추구** — POC가 아닌 실제 사용 가능한 프로덕트 레벨 개발
 
 ---
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
 
@@ -151,28 +166,28 @@ mindmap
 
 ---
 
-## 🌟 **What Makes Me Different**
+## **What Makes Me Different**
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🎓 **AI 전공 배경**
+### **AI 전공 배경**
 로봇학과에서 습득한  
 머신러닝/데이터 분석 역량
 
 </td>
 <td align="center" width="33%">
 
-### 🏗️ **견고한 백엔드**
+### **견고한 백엔드**
 Spring Boot 생태계 기반  
 확장 가능한 시스템 설계
 
 </td>
 <td align="center" width="33%">
 
-### 🚀 **융합적 사고**
+### **융합적 사고**
 AI와 백엔드를 자연스럽게  
 연결하는 통합적 접근
 
@@ -185,7 +200,7 @@ AI와 백엔드를 자연스럽게
 
 <div align="center">
 
-### 📬 **Let's Connect & Build Something Amazing**
+### **Let's Connect & Build Something Amazing**
 
 [![GitHub](https://img.shields.io/badge/GitHub-choichanwoo001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choichanwoo001)
 [![Email](https://img.shields.io/badge/Email-jonadan3495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonadan3495@gmail.com)
