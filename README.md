@@ -175,7 +175,7 @@ mindmap
 
 ### **전공 배경**
 전공에서 습득한  
-머신러닝/데이터 분석 역량
+머신러닝/LLM 역량
 
 </td>
 <td align="center" width="33%">
@@ -200,12 +200,8 @@ AI와 백엔드를 자연스럽게
 
 <div align="center">
 
-### **Let's Connect & Build Something Amazing**
-
 [![GitHub](https://img.shields.io/badge/GitHub-choichanwoo001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choichanwoo001)
 [![Email](https://img.shields.io/badge/Email-jonadan3495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonadan3495@gmail.com)
-
-*"AI의 가능성과 백엔드의 안정성을 결합해 더 나은 사용자 경험을 만들어갑니다"*
 
 </div>
 
