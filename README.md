@@ -90,7 +90,7 @@ AI 로봇학과에서 배운 머신러닝을 실전에 적용한 프로젝트
 **Achievements**
 - 당뇨병 예측 정확도 **85%+** 달성
 - RandomForest vs SVM vs Logistic 성능 비교 분석
-- 완전 자동화된 ML 파이프라인 구축
+- 자동화된 ML 파이프라인 구축
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/choichanwoo001/Machine_Learning-AI-Projects)
 
@@ -141,7 +141,7 @@ mindmap
       근거 기반 의사결정
       성능 지표 추적
     완성도 추구
-      POC를 넘어선 프로덕트
+      데모를 넘어선 프로덕트
       사용자 경험 고려
       운영 안정성 확보
 ```
@@ -150,7 +150,7 @@ mindmap
 
 **실용적 설계** — 과도한 추상화보다는 명확하고 유지보수 가능한 아키텍처  
 **데이터 중심** — AI/ML 배경을 살린 데이터 기반 의사결정과 성능 최적화  
-**완성도 추구** — POC가 아닌 실제 사용 가능한 프로덕트 레벨 개발
+**완성도 추구** — 단순한 데모가 아닌 실제 서비스로 사용 가능한
 
 ---
 
@@ -173,14 +173,14 @@ mindmap
 <tr>
 <td align="center" width="33%">
 
-### **AI 전공 배경**
-로봇학과에서 습득한  
+### **전공 배경**
+전공에서 습득한  
 머신러닝/데이터 분석 역량
 
 </td>
 <td align="center" width="33%">
 
-### **견고한 백엔드**
+### **백엔드**
 Spring Boot 생태계 기반  
 확장 가능한 시스템 설계
 
