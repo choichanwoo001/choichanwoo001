@@ -171,21 +171,21 @@ mindmap
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="32%">
 
 ### **전공 배경**
 전공에서 습득한  
 머신러닝/LLM 역량
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="34%">
 
 ### **백엔드**
 Spring Boot 생태계 기반  
 확장 가능한 시스템 설계
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="34%">
 
 ### **융합적 사고**
 AI와 백엔드를 자연스럽게  
