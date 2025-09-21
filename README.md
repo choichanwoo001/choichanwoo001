@@ -125,35 +125,6 @@ AI 로봇학과에서 배운 머신러닝을 실전에 적용한 프로젝트
 
 ---
 
-## **Development Philosophy**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((개발 철학))
-    실용적 설계
-      과도한 추상화 지양
-      명확한 코드 구조
-      유지보수성 우선
-    데이터 중심
-      AI/ML 배경 활용
-      근거 기반 의사결정
-      성능 지표 추적
-    완성도 추구
-      데모를 넘어선 프로덕트
-      사용자 경험 고려
-      운영 안정성 확보
-```
-
-</div>
-
-**실용적 설계** — 과도한 추상화보다는 명확하고 유지보수 가능한 아키텍처  
-**데이터 중심** — AI/ML 배경을 살린 데이터 기반 의사결정과 성능 최적화  
-**완성도 추구** — 단순한 데모가 아닌 실제 서비스로 사용 가능한
-
----
-
 ## **GitHub Stats**
 
 <div align="center">
@@ -165,43 +136,6 @@ mindmap
 </div>
 
 ---
-
-## **What Makes Me Different**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="32%">
-
-### **전공 배경**
-전공에서 습득한  
-머신러닝/LLM 역량
-
-</td>
-<td align="center" width="34%">
-
-### **백엔드**
-Spring Boot 생태계 기반  
-확장 가능한 시스템 설계
-
-</td>
-<td align="center" width="34%">
-
-### **융합적 사고**
-AI와 백엔드를 자연스럽게  
-연결하는 통합적 접근
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-choichanwoo001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choichanwoo001)
-[![Email](https://img.shields.io/badge/Email-jonadan3495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonadan3495@gmail.com)
 
 </div>
 
