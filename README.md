@@ -174,9 +174,58 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choichanwoo001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd93d&text_color=6c7b7f)
+<table>
+<tr>
+<td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choichanwoo001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=6c7b7f)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choichanwoo001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd93d&text_color=c9d1d9&count_private=true&include_all_commits=true)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choichanwoo001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## **📉 Activity Graph**
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=choichanwoo001&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ffd93d&point=ffd93d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## **🏆 GitHub Trophies**
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=choichanwoo001&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## **📈 Contribution Overview**
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choichanwoo001&theme=radical)
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choichanwoo001&theme=radical" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=choichanwoo001&theme=radical" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=choichanwoo001&theme=radical&utcOffset=9" /></td>
+</tr>
+</table>
 
 </div>
 
